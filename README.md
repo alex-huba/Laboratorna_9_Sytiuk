@@ -22,7 +22,8 @@
   <img width="949" alt="image" src="https://github.com/alex-huba/Laboratorna_9_Sytiuk/assets/86207944/f2731693-105e-416d-85c2-68154aafd136">
 
 * Доступні дії через меню
-  <img width="945" alt="image" src="https://github.com/alex-huba/Laboratorna_9_Sytiuk/assets/86207944/5893fd58-f1f7-4e8f-bdf6-    0d12a77ef6fb">
+  <img width="947" alt="image" src="https://github.com/alex-huba/Laboratorna_9_Sytiuk/assets/86207944/115efd07-31c9-40bf-87d0-96423b3cecc8">
+  
 
 
 
