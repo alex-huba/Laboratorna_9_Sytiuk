@@ -4,7 +4,7 @@
   <img width="946" alt="image" src="https://github.com/alex-huba/Laboratorna_9_Sytiuk/assets/86207944/57dbc5ac-20ec-4ba6-b1da-d42cafcdd485">
 
 * Після завантаження з ДБ:
- <img width="949" alt="image" src="https://github.com/alex-huba/Laboratorna_9_Sytiuk/assets/86207944/77c6c849-32cf-4ae7-b3e6-b341c2fad9f1">
+   <img width="949" alt="image" src="https://github.com/alex-huba/Laboratorna_9_Sytiuk/assets/86207944/77c6c849-32cf-4ae7-b3e6-b341c2fad9f1">
 
 * Видалення:
   <img width="947" alt="image" src="https://github.com/alex-huba/Laboratorna_9_Sytiuk/assets/86207944/6ee65551-cd53-411e-8117-1bdce629069e">
